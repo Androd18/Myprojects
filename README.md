@@ -16,7 +16,8 @@ This case study was made according to the Six phases of data analysis by Google:
 * Share. 
 * Act. 
 
-
+The tools used for this analysis are Rstudio for cleaning, calculations and plotting the results, and PowerPoint to show results, conclusions and recommendations.
+You can find in this repository the Rmarkdown report with all the coding and the Powerpoint presentation.
 
 
 
